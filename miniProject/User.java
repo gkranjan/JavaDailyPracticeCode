@@ -1,0 +1,7 @@
+package miniProject;
+
+public class User {
+
+	
+	
+}
